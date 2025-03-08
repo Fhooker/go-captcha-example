@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@arco-design/web-react": "^2.65.0",
-    "axios": "^0.24.0",
+    "axios": "^1.8.2",
     "go-captcha-react": "1.0.3",
     "lodash": "^4.17.21",
     "qs": "^6.12.1",
